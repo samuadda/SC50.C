@@ -43,3 +43,27 @@ To compile any file, you can use `gcc`:
 ```bash
 gcc filename.c -o program
 ./program
+```
+
+Or, if you’re using the CS50 environment / make:
+```bash
+make program_name
+./program_name
+```
+Make sure you have a C compiler installed (e.g. gcc or clang).
+
+🎯 What This Repo Shows
+
+Early hands-on experience with C
+
+Exposure to core computer science fundamentals
+
+Comfort with the terminal, compilation, debugging, and iterative problem solving
+
+This repo is mainly archived as a reference to where I started, and as part of my learning history.
+
+📬 Contact
+
+Twitter(X) : [@samuadda](https://x.com/samuadda)
+
+LinkedIn: [Saddiq Musa](https://www.linkedin.com/in/saddiq-daut/)
