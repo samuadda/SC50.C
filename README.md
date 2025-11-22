@@ -1,5 +1,7 @@
 # CS50 C Track — Problem Set Solutions
 
+![harvard cs50](cs50-harvard.png)
+
 This repository contains my solutions to the C programming track of **CS50 – Introduction to Computer Science**.  
 It includes my work during the course, organized by weeks and problem sets, all written in C.
 
