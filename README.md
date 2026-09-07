@@ -1,3 +1,5 @@
+> **Project type: Learning / practice.** This repository documents an earlier stage of my development journey and is kept as a learning reference and portfolio exercise.
+
 # CS50 C Track — Problem Set Solutions
 
 ![harvard cs50](cs50-harvard.png)
